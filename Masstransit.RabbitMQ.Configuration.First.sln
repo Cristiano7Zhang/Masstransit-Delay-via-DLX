@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masstransit.RabbitMQ.Configuration.First", "Masstransit.RabbitMQ.Configuration.First\Masstransit.RabbitMQ.Configuration.First.csproj", "{58B35A35-D0D8-43CA-93A6-C801E9CD4D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masstransit.RabbitMQ.Configuration.First.Sample", "Masstransit.RabbitMQ.Configuration.First.Sample\Masstransit.RabbitMQ.Configuration.First.Sample.csproj", "{130045F7-F868-4178-9009-5F3AB865A49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B35A35-D0D8-43CA-93A6-C801E9CD4D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B35A35-D0D8-43CA-93A6-C801E9CD4D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B35A35-D0D8-43CA-93A6-C801E9CD4D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B35A35-D0D8-43CA-93A6-C801E9CD4D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130045F7-F868-4178-9009-5F3AB865A49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130045F7-F868-4178-9009-5F3AB865A49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130045F7-F868-4178-9009-5F3AB865A49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130045F7-F868-4178-9009-5F3AB865A49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46EC6B84-16F4-4130-8F86-159CD4B8F91B}
+	EndGlobalSection
+EndGlobal
