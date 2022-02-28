@@ -1,2 +1,2 @@
-# Masstransit-Delay-via-DLX
+# Masstransit-RabbitMQ-Delay-via-DLX
 Implementation of delay via RabbitMQ DLX instead of delayed message plugin
